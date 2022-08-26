@@ -1,0 +1,32 @@
+{
+  "name": "backend0",
+  "version": "0.0.0",
+  "description": "Backend0",
+  "main": "app.js",
+  "author": {
+    "name": "IVAN"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "aes-js": "^3.1.1",
+    "apiai": "^4.0.3",
+    "body-parser": "^1.18.2",
+    "crypto": "^1.0.1",
+    "curl": "^0.1.4",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "hashmap": "^2.3.0",
+    "html2plaintext": "^2.0.1",
+    "http": "0.0.0",
+    "messaging-api-messenger": "^0.7.1",
+    "messaging-api-telegram": "^0.7.0",
+    "mysql": "^2.15.0",
+    "node-session": "^1.2.1",
+    "pem": "^1.14.1",
+    "promise-mysql": "^3.3.1",
+    "request": "^2.85.0",
+    "rss-parser": "^3.1.2"
+  }
+}
